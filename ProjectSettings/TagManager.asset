@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - projectile
+  - enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3487330281
+    locked: 0
+  - name: aimHelper
+    uniqueID: 2812825061
+    locked: 0
+  - name: projectiles
+    uniqueID: 2959697847
+    locked: 0
+  - name: weapons
+    uniqueID: 2696891943
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
